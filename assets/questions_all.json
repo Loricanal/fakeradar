@@ -1,0 +1,180 @@
+[
+{
+    "RISPOSTA_MULTIPLA":0,
+    "DOMANDA": "A Londra un uomo travestito da Vincent Van Gogh è entrato nella sede di un’organizzazione ambientalista per gettare del minestrone contro gli «attivisti climatici», in risposta a quanto avvenuto proprio a Londra ad Ottobre, dove gli ambientalisti lanciarono una zuppa contro il quadro «I girasoli» di Van Gogh.",
+    "MEDIA":[],
+    "TYPE":"text",
+    "OPZIONI": ["VERO", "FALSO"],
+    "RISPOSTA": [1],
+    "RISPOSTA_CHAT_GPT": "La tua affermazione sembra essere una narrazione specifica di un evento che potrebbe essere vero o falso, ma non ho accesso a informazioni in tempo reale o a eventi recenti al di là della mia data di conoscenza, che si ferma a settembre 2021. Non ho quindi informazioni su questo particolare incidente a Londra.",
+    "SPIEGAZIONE": "Si tratta di una notizia diffusa tramite un sito di meme in lingua tedesca. Spesso la satira e la parodia, estrapolate dal contesto originale, possono creare bufale. Per maggiori informazioni: https://www.open.online/2022/11/15/regno-unito-londra-van-gogh-minestrone-ambientalisti-fc/"
+  },
+  {
+    "RISPOSTA_MULTIPLA":0,
+    "DOMANDA": "La temperatura del cuore di ghiaccio della Groenlandia restituisce un quadro più puntuale della temperatura della Terra al momento della misurazione rispetto alla temperatura media dell’aria.",
+    "MEDIA":[],
+    "TYPE":"text",
+    "OPZIONI": ["VERO", "FALSO"],
+    "RISPOSTA": [1],
+    "RISPOSTA_CHAT_GPT": "Vero. La temperatura del cuore di ghiaccio della Groenlandia può fornire informazioni più precise sulla temperatura della Terra in passato rispetto alla temperatura media dell'aria. Questo perché il ghiaccio sepolto sotto lo strato superficiale conserva tracce delle temperature passate e delle condizioni atmosferiche attraverso la registrazione di isotopi e altre caratteristiche chimiche. Gli scienziati studiano i campioni di ghiaccio prelevati dalla Groenlandia per ottenere dati storici sul clima terrestre, che possono risalire a migliaia di anni fa. Questi dati contribuiscono a migliorare la comprensione delle variazioni climatiche nel corso della storia della Terra.",
+    "SPIEGAZIONE": "La temperatura del cuore di ghiaccio della Groenlandia è un dato importante per comprendere molti fenomeni avvenuti migliaia di anni fa, ma non è quello che restituisce un quadro più puntuale della temperatura della Terra al momento della misurazione, che può essere invece ottenuto tramite altre misurazioni, tra cui la temperatura media dell’aria. Sito interessante per analizzare le variazioni di temperatura: https://climateknowledgeportal.worldbank.org/country/greenland/climate-data-historical"
+  },
+  {
+    "RISPOSTA_MULTIPLA":0,
+    "DOMANDA": "Tra i 1998 e il 2012 le temperature medie globali non sono cresciute significativamente.",
+    "MEDIA":["https://upload.wikimedia.org/wikipedia/commons/f/f4/Global_warming_hiatus.gif"],
+    "TYPE":"text",
+    "OPZIONI": ["VERO", "FALSO"],
+    "RISPOSTA": [0],
+    "RISPOSTA_CHAT_GPT": "Falso. Secondo la maggior parte delle fonti scientifiche e degli enti meteorologici, le temperature medie globali tra il 1998 e il 2012 sono aumentate. Anche se ci sono stati anni con variazioni stagionali e regionali, il trend a lungo termine ha mostrato un aumento delle temperature medie globali durante quel periodo. Questa è stata una parte del processo di riscaldamento globale che è stato ampiamente documentato dalla comunità scientifica. Tuttavia, è importante notare che nel breve termine possono verificarsi fluttuazioni naturali delle temperature che possono far sembrare che non ci sia un aumento costante, ma il trend a lungo termine è chiaro.",
+    "SPIEGAZIONE": "Il fatto che per 15 anni il trend non sia cresciuto come in altri periodi non vuole dire che il riscaldamento globale non sia un fenomeno reale. Trend su piccole finestre temporali non nascondo trend su larghe finestre temporali. Considerare solo la parte di dati utile a sostenere la propria tesi è un fenomeno che prende il nome di cherry picking (raccolta delle ciliege)."
+  },
+  {
+    "RISPOSTA_MULTIPLA":0,
+    "DOMANDA": "L'industria dei combustibili fossili ha finanziato scienziati per mettere in discussione il riscaldamento globale.",
+    "MEDIA":[],
+    "TYPE":"text",
+    "OPZIONI": ["VERO", "FALSO"],
+    "RISPOSTA": [0],
+    "RISPOSTA_CHAT_GPT": "Vero. La temperatura del cuore di ghiaccio della Groenlandia può fornire informazioni più precise sulla temperatura della Terra in passato rispetto alla temperatura media dell'aria. Questo perché il ghiaccio sepolto sotto lo strato superficiale conserva tracce delle temperature passate e delle condizioni atmosferiche attraverso la registrazione di isotopi e altre caratteristiche chimiche. Gli scienziati studiano i campioni di ghiaccio prelevati dalla Groenlandia per ottenere dati storici sul clima terrestre, che possono risalire a migliaia di anni fa. Questi dati contribuiscono a migliorare la comprensione delle variazioni climatiche nel corso della storia della Terra.",
+    "SPIEGAZIONE": "La temperatura del cuore di ghiaccio della Groenlandia è un dato importante per comprendere molti fenomeni avvenuti migliaia di anni fa, ma non è quello che restituisce un quadro più puntuale della temperatura della Terra al momento della misurazione, che può essere invece ottenuto tramite altre misurazioni, tra cui la temperatura media dell’aria. Sito interessante per analizzare le variazioni di temperatura: https://climateknowledgeportal.worldbank.org/country/greenland/climate-data-historical"
+  },
+  {
+      "RISPOSTA_MULTIPLA":0,
+      "DOMANDA": "Secondo il Principio di Pareto, noto anche come la 'legge dell'80/20', la maggior parte dei beni in un sistema complesso è detenuta dalla maggioranza dei soggetti, mentre una minoranza contribuisce solo in misura limitata.",
+      "MEDIA":[],
+      "TYPE":"text",
+      "OPZIONI": ["VERO", "FALSO"],
+      "RISPOSTA": [0],
+      "RISPOSTA_CHAT_GPT": "La tua affermazione è vera. Il Principio di Pareto, noto anche come la 'legge dell'80/20' o il 'principio 80/20', sostiene che approssimativamente l'80% degli effetti proviene dal 20% delle cause. Questo principio è stato originariamente formulato dall'economista italiano Vilfredo Pareto, che ha osservato che circa l'80% della ricchezza in Italia era detenuta dal 20% della popolazione. Successivamente, questo concetto è stato applicato in vari campi, sottolineando che in molti casi una piccola percentuale di input contribuisce alla maggior parte degli output. Questo principio è stato esteso e generalizzato in molti contesti al di fuori dell'economia, diventando un concetto ampiamente utilizzato in diverse discipline.",
+      "SPIEGAZIONE": "Il Principio di Pareto, formulato da Vilfredo Pareto, evidenzia che in svariati sistemi complessi, la distribuzione non è uniforme, ma segue un modello in cui una minoranza (approssimativamente il 20%) contribuisce in modo significativo alla maggior parte dei risultati (circa l'80%). L’aspetto interessante è che questo tipo di distribuzione è presente in diversi ambiti: in un ecosistema, il 20 per cento delle api impollina l’80 per cento delle specie di piante, mentre il restante 80 per cento impollina solo il 20 per cento delle specie di piante; l’80 per cento della ricchezza mondiale è posseduto da circa il 20 per cento della popolazione; spesso è il 20 per cento dei prodotti o dei servizi di un’azienda a portare l’80 per cento del fatturato. È del tutto verosimile che anche le emissioni o altri fenomeni che hanno a che fare con l’impatto ambientale abbiano questo tipo di distribuzione. Per esempio, alcuni alimenti, che hanno un apporto nutrizionale minoritario, causano la maggior parte dell’impatto ambientale. Lo stesso avviene per quanto riguarda i trasporti, il consumo energetico domestico, l’inquinamento da plastica nei mari."
+  },
+  {
+      "RISPOSTA_MULTIPLA":0,
+      "DOMANDA": "Il formaggio è più impattante del maiale e del pollame sia per le emissioni di gas serra di produzioni e di allevamenti che per la superficie utilizzata.",
+      "MEDIA":[],
+      "TYPE":"text",
+      "OPZIONI": ["VERO", "FALSO"],
+      "RISPOSTA": [0],
+      "RISPOSTA_CHAT_GPT": "Determinare l'impatto ambientale di un alimento coinvolge molteplici fattori e può variare in base a diversi contesti e pratiche di produzione. Tuttavia, in linea di massima, la produzione di carne, compresa quella di maiale e pollame, è spesso associata a impatti ambientali significativi, tra cui emissioni di gas serra e l'uso di risorse come acqua e terra. Dal punto di vista delle emissioni di gas serra, la produzione di carne può contribuire all'emissione di metano e ossido nitroso, gas ad effetto serra più potenti della CO2. La produzione di formaggio può anche avere un impatto ambientale significativo, soprattutto a causa delle emissioni associate alla gestione dei pascoli, al processo di fermentazione e alla gestione dei rifiuti. In generale, è difficile fare affermazioni categoriche e generalizzate sulla sostenibilità ambientale di un alimento rispetto a un altro senza considerare dettagli specifici sulle pratiche agricole e di produzione coinvolte. Alcuni studi suggeriscono che una dieta a base vegetale può ridurre l'impatto ambientale complessivo rispetto a una dieta ricca di carne e latticini. Tuttavia, è importante considerare il contesto specifico e le pratiche agricole impiegate nella produzione di alimenti specifici.",
+      "SPIEGAZIONE": "Esaminando i dati globali, si osserva che tutte queste differenze tra gli animali si ritrovano nelle rispettive emissioni: a parità di produzione, la carne di manzo emette 10 volte più del pollo e 8 volte più del maiale. Per quanto riguarda l’occupazione di suolo, le differenze sono ancora maggiori: il pollame è 30 volte meglio del manzo e il maiale 21 volte meglio. Se tutti gli abitanti del mondo mangiassero solo pollo e maiale, secondo le linee guida, ci sarebbero delle emissioni annuali nell’ordine dei 220 chili di CO2 pro capite, più o meno quanto attualmente emette un gatto o un cane di piccole dimensioni per la sua dieta. Il consumo della carne tuttavia  è un caso raro in cui non sembrano esserci trade-off o costi nascosti: meno carne è sempre da preferire, e l’optimum sta nel l'azzeramento di tali consumi. Fonte: https://ourworldindata.org/environmental-impacts-of-food."
+  },
+  {
+      "RISPOSTA_MULTIPLA":0,
+      "DOMANDA": "Greta Thunberg diceva: \"Il mondo finirà nel 2023\".",
+      "MEDIA":[],
+      "TYPE":"text",
+      "OPZIONI": ["VERO", "FALSO"],
+      "RISPOSTA": [1],
+      "RISPOSTA_CHAT_GPT": "Non ci sono prove attendibili che Greta Thunberg abbia mai fatto l'affermazione \"Il mondo finirà nel 2023\". Greta Thunberg è un'attivista ambientale che ha guadagnato notorietà per il suo impegno nella sensibilizzazione sui cambiamenti climatici e per chiedere azioni concrete per affrontare la crisi ambientale. Tuttavia, è importante notare che fare previsioni specifiche sulla fine del mondo è generalmente fuori dal contesto delle sue dichiarazioni e delle sue attività. Le dichiarazioni attribuite a figure pubbliche devono essere verificate accuratamente, soprattutto quando riguardano questioni così importanti. Nel caso specifico, non ci sono prove che Greta Thunberg abbia fatto una previsione così specifica sulla fine del mondo nel 2023.",
+      "SPIEGAZIONE": "Nel 2018 Greta Thunberg ha condiviso su Twitter un articolo secondo cui l’umanità sarebbe stata 'spazzata via' se non si fosse abbandonato l’uso di combustibili fossili 'nei prossimi cinque anni'. Questo articolo conteneva però un’interpretazione scorretta di alcune dichiarazioni di un esperto di cambiamenti climatici. Thunberg ha quindi sbagliato ad affidarsi a fonti non verificate, ma non ha mai dichiarato che il mondo sarebbe finito nel 2023. Sia l’articolo sia il tweet sono stati rimossi e lo stesso esperto citato nell’articolo ha smentito qualsiasi affermazione riguardante la fine del mondo. Diverse testate di area conservatrice sia straniere che italiane hanno comunque usato questa storia per accusare Thunberg di diffondere previsioni sbagliate. Fonte: https://pagellapolitica.it/fact-checking/renzi-thunberg-fine-mondo-2023."
+  },
+  {
+      "RISPOSTA_MULTIPLA":0,
+      "DOMANDA": "Quale dei seguenti audio non è stato cantato dalla persona di cui si sente la voce?",
+      "MEDIA":[],
+      "TYPE":"audio",
+      "OPZIONI": [
+      "https://www.dropbox.com/scl/fi/9dvpnhbaqn7p7dsiu39pt/Voce-0.wav?rlkey=i1kqf26t08c07k8eqiuwcqbkk&dl=1",
+      "https://www.dropbox.com/scl/fi/93z3mqriey8cwtlkhbu0w/Voce-1.wav?rlkey=m4ob9ufjxaj927lgu41z8nqy9&dl=1",
+      "https://www.dropbox.com/scl/fi/jdzjbbnixc7oumkvtpm3j/Voce-2.wav?rlkey=p28ncxtf2fb3kn9ky8kdbpccz&dl=1"
+      ],
+      "RISPOSTA": [0],
+      "SPIEGAZIONE": "La voce dell’Opzione 1 è stata cantata originariamente da un’altra persona: https://www.dropbox.com/scl/fi/jds05eva7z1hu5y82bz2f/Voce-originale-V.wav?rlkey=u7uqxbmujlvv21dby9a8szygo&dl=1. La voce è poi stata sostituita successivamente con il voice swapping: https://www.dropbox.com/scl/fi/rawk060zlkpouhh805t6i/La-voce-della-V-main_flat.wav?rlkey=skj0oxjoo0v5r9c1jjas612r1&dl=1."
+  },
+  {
+      "RISPOSTA_MULTIPLA":0,
+      "DOMANDA": "Quale delle due persone esiste realmente?",
+      "MEDIA":[],
+      "TYPE":"image",
+      "OPZIONI": ["https://www.dropbox.com/scl/fi/xpyz0ies593vxowfm47ld/1.jpeg?rlkey=kupyl9fignislr816xe07bjko&dl=1", "https://www.dropbox.com/scl/fi/3f6arxzybp93h59xl3ie3/2.jpeg?rlkey=3gpp96j8gzyjera600mz4dh6b&dl=1"],
+      "RISPOSTA": [0],
+      "SPIEGAZIONE": " Nell'immagine sulla destra, si può osservare in alto a destra una sagoma con un occhio che non presenta forme umane realistiche."
+  },
+  {
+      "RISPOSTA_MULTIPLA":0,
+      "DOMANDA": "Quale delle due persone esiste realmente?",
+      "MEDIA":[],
+      "TYPE":"image",
+      "OPZIONI": ["https://www.dropbox.com/scl/fi/igssuipb8myroxqmbnxqn/3.jpeg?rlkey=68d06uks4j4zgqjzht36b9fu0&dl=1", "https://www.dropbox.com/scl/fi/tj63fdfda6vareiyshldc/4.jpeg?rlkey=toz9jtt5vbfupho1zxx6snmfs&dl=1"],
+      "RISPOSTA": [0],
+      "SPIEGAZIONE": "Nell'immagine a destra, la giacca dell'uomo sembra essere spostata in modo innaturale, soprattutto all'altezza della spalla sinistra."
+  },
+  {
+      "RISPOSTA_MULTIPLA":0,
+      "DOMANDA": "Quale delle due persone esiste realmente?",
+      "MEDIA":[],
+      "TYPE":"image",
+      "OPZIONI": ["https://www.dropbox.com/scl/fi/kemj4dc2yw1xze47u2cxb/8.jpeg?rlkey=0vs8isg8it0kzxfe1gxv3m7ob&dl=1", "https://www.dropbox.com/scl/fi/wckmgl9rz27sd05egaxe6/7.jpeg?rlkey=hggostau3sp80osswlkr0v4fg&dl=1"],
+      "RISPOSTA": [0],
+      "SPIEGAZIONE": "Alla destra della ragazza è presente un oggetto simile a dei capelli, ma poco identificabile."
+  },
+  {
+      "RISPOSTA_MULTIPLA":1,
+      "DOMANDA": "Quale/i delle persone esiste/ono realmente?",
+      "MEDIA":[],
+      "TYPE":"image",
+      "OPZIONI":  ["https://www.dropbox.com/scl/fi/bmdoqx8wtn0ouvnimwff3/5.jpeg?rlkey=02wrr8z75kcmg8gpct3or6anr&dl=1", "https://www.dropbox.com/scl/fi/dms6k25axnxm9zfpokb7b/6.jpeg?rlkey=iaa9fckps74bvm1jsk7xqw9fb&dl=1", "https://www.dropbox.com/scl/fi/1pdx2xlqzmv624aal28fk/9.jpeg?rlkey=6wpi6f9yzwqv1bvy13yjhq5x9&dl=1", "https://www.dropbox.com/scl/fi/k6izbsy24qbnfgeorrwqf/10.jpeg?rlkey=wuggsesufav015h36ao932nqu&dl=1"],
+      "RISPOSTA": [0,2],
+      "SPIEGAZIONE": "Le due ragazze sembrano più staccate rispetto ai due uomini dallo sfondo. Tuttavia è davvero difficile in questo caso discernere reale e fake."
+  },
+  {
+      "RISPOSTA_MULTIPLA":1,
+      "DOMANDA": "Quale/i delle persone esiste/ono realmente?",
+      "MEDIA":[],
+      "TYPE":"text",
+      "OPZIONI":  ["https://www.dropbox.com/scl/fi/z07ssrqrqatduu3m01ikz/11.jpeg?rlkey=sm3awfw8i6gcv9dccox5t8ymm&dl=1", "https://www.dropbox.com/scl/fi/2s7ecjyc6mrz2posv5ztv/13.jpeg?rlkey=0ay6ywzblhm6145avu9jf8jza&dl=1", "https://www.dropbox.com/scl/fi/1xx49nk52kjhywjdn5n8h/14.jpeg?rlkey=70pb1tkyc90wdy1uc9l08l9ya&dl=1", "https://www.dropbox.com/scl/fi/owddr1oyfkm8t0yemd6b1/15.jpeg?rlkey=sr6b9a9gmn5743diavu5kamrq&dl=1"],
+      "RISPOSTA": [1],
+      "SPIEGAZIONE": "La ragazza di colore presenta una sagoma poco realistica accanto a sé, mentre nello sfondo della foto dell'uomo di colore si notano strane linee ondulate. Nel caso dell'ultima ragazza falsa, risulta veramente difficile discernere gli elementi che la rendono sospetta."
+  },
+  {
+      "RISPOSTA_MULTIPLA":1,
+      "DOMANDA": "Seleziona le opzioni legate all’espressione cherry picking.",
+      "MEDIA":[],
+      "TYPE":"text",
+      "OPZIONI":  ["evidenza incompleta", "ciliegia", "notizie a singhiozzo", "fallacia logica", "informazioni imparziali"],
+      "RISPOSTA": [0,1,2,3],
+      "RISPOSTA_CHAT_GPT": "Le opzioni legate all'espressione \"cherry picking\" sono ciliegia, evidenza incompleta, notizie a singhiozzo e fallacia logica.",
+      "SPIEGAZIONE": "L'espressione \"cherry picking\" si riferisce al comportamento di selezionare attentamente solo le informazioni o le evidenze che supportano un particolare punto di vista, ignorando o trascurando consapevolmente quelle che potrebbero contraddirlo. Vediamo come le opzioni fornite sono collegate a questo concetto. 1) Ciliegia: Questo termine è una traduzione letterale di \"cherry picking\". Rappresenta il prendere solo le migliori parti o le informazioni più vantaggiose, ignorando il resto. 2) Evidenza incompleta: Il \"cherry picking\" spesso coinvolge la presentazione di un insieme incompleto di prove o dati, concentrando l'attenzione solo su quelli che supportano la tesi dell'argomento. 3) Notizie a singhiozzo: Il \"cherry picking\" può manifestarsi nel modo in cui le notizie vengono presentate, con una selezione di informazioni che non fornisce una visione completa o equilibrata degli eventi. 4) Fallacia logica: \"Cherry picking\" è considerato una forma di fallacia logica in quanto si basa su una selezione distorta di dati per sostenere un'argomentazione, ignorando il contesto più ampio o le informazioni che potrebbero contraddirla. In breve, tutte le opzioni sono collegate al \"cherry picking\" poiché riflettono aspetti specifici di questo comportamento, che può verificarsi in vari contesti, come nel discorso, nell'analisi dei dati o nella presentazione delle informazioni."
+  },
+  {
+      "RISPOSTA_MULTIPLA":0,
+      "DOMANDA": "Cosa afferma il principio di Belzebù?",
+      "MEDIA":[],
+      "TYPE":"text",
+      "OPZIONI": ["Qualora sussista il dubbio che una certa attivitá possa portare a un danno, quella attivitá non deve avere luogo.", "La veritá sta nel mezzo.", "Non é possibile verificare se gli unicorni soffrano di meteorismo (men che meno aiutarli a guarire!), semplicemente perché gli unicorni non esistono!", "Per quanto letame (o altro materiale organico...) si possa spalare, il complottista di turno sará sempre in grado di produrne un’altra montagna, o qualcosa del genere.", "Se un religioso o una suora affermano di aver avuto una visione di Dio, si tratta di una prova debole. Se ad affermarlo é un ateo militante, la prova é molto piú forte."],
+      "RISPOSTA": [5],
+      "RISPOSTA_CHAT_GPT": "Il principio di Belzebù non è un principio noto o riconosciuto nella cultura generale o nella filosofia. Le affermazioni che hai fornito sembrano essere frasi o dichiarazioni senza un contesto specifico e non sono associate a un principio noto o a una filosofia riconosciuta. Pertanto, non posso identificare quale affermazione sia associata al cosiddetto \"principio di Belzebù\".",
+      "SPIEGAZIONE": "Per maggiori informazioni consultare https://attivissimo.blogspot.com/2004/10/ixt-antibufala-simona-e-simona.html"
+  },
+  {
+      "RISPOSTA_MULTIPLA":0,
+      "DOMANDA": "Che cos’è l’Internet Research Agency?",
+      "MEDIA":[],
+      "TYPE":"text",
+      "OPZIONI": ["Un'azienda europea che si occupa di contrastare la diffusione di meme e video manipolativi.", "Un'azienda russa, con sede a San Pietroburgo, impegnata in operazioni di propaganda online per conto di aziende russe e per gli interessi politici del Cremlino."],
+      "RISPOSTA": [1],
+      "RISPOSTA_CHAT_GPT": "La risposta corretta è Un'azienda russa, con sede a San Pietroburgo, impegnata in operazioni di propaganda online per conto di aziende russe e per gli interessi politici del Cremlino. L'Internet Research Agency è stata un'organizzazione russa accusata di svolgere operazioni di disinformazione e propaganda online per conto del governo russo e per promuovere gli interessi politici del Cremlino.",
+      "SPIEGAZIONE": "Per maggiori informazioni consultare https://it.wikipedia.org/wiki/Internet_Research_Agency"
+  },
+  {
+      "RISPOSTA_MULTIPLA":0,
+      "DOMANDA": "Chi sono i mercanti del dubbio?",
+      "MEDIA":[],
+      "TYPE":"text",
+      "OPZIONI": ["Un gruppo di scienziati che invitano a non trarre conclusioni affrettate senza porsi prima le giuste domande.", "Scienziati pagati da imprese per disseminare dubbi sulla certezza dei  risultati  scientifici \"scomodi\"." ],
+      "RISPOSTA": [1],
+      "RISPOSTA_CHAT_GPT": "La risposta corretta è: Scienziati pagati da imprese per disseminare dubbi sulla certezza dei risultati scientifici \"scomodi\". I \"mercanti del dubbio\" si riferiscono a individui o gruppi di scienziati che sono finanziati da interessi industriali o commerciali per mettere in discussione o diffondere dubbi sulle scoperte scientifiche che potrebbero avere implicazioni negative per l'industria o per determinate posizioni politiche. Questo termine è spesso associato a questioni come il cambiamento climatico e la sicurezza del tabacco, in cui scienziati o lobby industriali hanno cercato di seminare incertezza su prove scientifiche consolidate.",
+      "SPIEGAZIONE": "I \"mercanti del dubbio\" si riferiscono a individui o gruppi di scienziati che sono finanziati da interessi industriali o commerciali per mettere in discussione o diffondere dubbi sulle scoperte scientifiche che potrebbero avere implicazioni negative per l'industria o per determinate posizioni politiche. Questo termine è spesso associato a questioni come il cambiamento climatico e la sicurezza del tabacco, in cui scienziati o lobby industriali hanno cercato di seminare incertezza su prove scientifiche consolidate."
+  },
+  {
+      "RISPOSTA_MULTIPLA":0,
+      "DOMANDA": "Sono presenti deepfakes nel seguente video? Se sì, quali?",
+      "MEDIA":["https://www.dropbox.com/scl/fi/447ml95ew5yu2h4xv9ksm/Welcome-to-Chechnya.mp4?rlkey=0vnj3abpnbt038doi25u2vz6u&dl=1"],
+      "TYPE":"text",
+      "OPZIONI": ["Nessuno",""],
+      "RISPOSTA": [1],
+      "RISPOSTA_CHAT_GPT": "La risposta corretta è: Scienziati pagati da imprese per disseminare dubbi sulla certezza dei risultati scientifici \"scomodi\". I \"mercanti del dubbio\" si riferiscono a individui o gruppi di scienziati che sono finanziati da interessi industriali o commerciali per mettere in discussione o diffondere dubbi sulle scoperte scientifiche che potrebbero avere implicazioni negative per l'industria o per determinate posizioni politiche. Questo termine è spesso associato a questioni come il cambiamento climatico e la sicurezza del tabacco, in cui scienziati o lobby industriali hanno cercato di seminare incertezza su prove scientifiche consolidate.",
+      "SPIEGAZIONE": "I \"mercanti del dubbio\" si riferiscono a individui o gruppi di scienziati che sono finanziati da interessi industriali o commerciali per mettere in discussione o diffondere dubbi sulle scoperte scientifiche che potrebbero avere implicazioni negative per l'industria o per determinate posizioni politiche. Questo termine è spesso associato a questioni come il cambiamento climatico e la sicurezza del tabacco, in cui scienziati o lobby industriali hanno cercato di seminare incertezza su prove scientifiche consolidate."
+  }
+]
