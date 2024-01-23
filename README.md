@@ -13,5 +13,3 @@ Welcome to the Fake Radar App repository! This React-based application is design
 Click the link below to watch the demo video and see the Fake Radar game in action:
 
 [Fake Radar Demo](https://youtu.be/9ynhnMaX0Fg)
-
-*Click on the link above to watch the full demo.*
